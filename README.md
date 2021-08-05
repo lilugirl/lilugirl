@@ -49,8 +49,4 @@ Here are some ideas to get you started:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{lilugirl}/count.svg" /></p> 
 </br>
 
-<!-- https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512 -->
-```diff
-- Procastinating
-+ Coding
-```
+
